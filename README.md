@@ -43,7 +43,7 @@ Watch demonstration of the game play on [YouTube](https://www.youtube.com/watch?
 #### Development Related Information:
 1. <b>Programming and Tools</b>:
    
-  - Unity 6 (6000.0.38f1)
+  - Game Engine: Unity 6 (6000.0.38f1)
 
   - Programming Language: C#
   
