@@ -74,6 +74,7 @@ Watch demonstration of the game play on [YouTube](https://www.youtube.com/watch?
 
 -----
 
+##### Copyright license
 ```
 Copyright (c) 2025 Ravin Kumar
 Website: https://mr-ravin.github.io
