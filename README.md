@@ -32,8 +32,11 @@ Watch demonstration of the game play on [YouTube](https://www.youtube.com/watch?
 |-- RotationWars2.sln                             [Required by Unity]
 |
 |-- BuildAndroid/      // contains .apk file for playing the game on Android.
-|-- BuildLinux/        // contains executable file RotationWars2.x86_64 to play the game on Linux (ex- Ubuntu)
+|-- BuildLinux/        // contains executable file RotationWars2.x86_64 to play the game on Linux. (ex- Ubuntu)
 |-- BuildWebBrowser/   // contains  index.html to play the game on Web Browser.
+|
+|-- rotationwars2_gameplay.gif   // Game Play- .gif file.
+|-- RotationWars2.mp2            // Game Play- video file.
 ```
 -----
 
