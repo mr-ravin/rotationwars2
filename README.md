@@ -10,7 +10,7 @@ An open-source, minimalistic multiplayer game built with Unity3D for Android, Li
 
 [![Working Demonstration](https://github.com/mr-ravin/rotationwars2/blob/main/rotationwars2_gameplay.gif)](https://www.youtube.com/watch?v=TAH9_NlJNZA)
 
-Watch game play demonstration on [YouTube](https://www.youtube.com/watch?v=TAH9_NlJNZA)
+Watch demonstration of the game play on [YouTube](https://www.youtube.com/watch?v=TAH9_NlJNZA).
 
 ### Play the game :
 1. <b>Google Play</b>: [android install](https://play.google.com/store/apps/details?id=ravin.developer.rotationwars2)
