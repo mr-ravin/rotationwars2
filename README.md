@@ -2,6 +2,7 @@
 An open-source, minimalistic multiplayer game built with Unity3D for Android, Linux, and Web Browser. Players battle on a dynamically rotating platform, pushing and maneuvering to stay on while knocking opponents off. The last player standing wins.
 
 ##### Game Developer: [Ravin Kumar](https://mr-ravin.github.io)
+##### Github repository: https://github.com/mr-ravin/rotationwars2
 
 ### What makes it challenging?
 - The platform's rotation continuously accelerates, making the game both challenging and fun.
