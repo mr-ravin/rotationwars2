@@ -37,7 +37,7 @@ Watch demonstration of the game play on [YouTube](https://www.youtube.com/watch?
 |-- BuildWebBrowser/   // contains  index.html to play the game on Web Browser.
 |
 |-- rotationwars2_gameplay.gif   // Game Play- .gif file.
-|-- RotationWars2.mp2            // Game Play- video file.
+|-- RotationWars2.mp4            // Game Play- video file.
 ```
 -----
 
